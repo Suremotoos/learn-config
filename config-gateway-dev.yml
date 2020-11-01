@@ -2,7 +2,7 @@ learn:
   cloud:
     ip-black:
       blackList:
-        #- 0:0:0:0:0:0:0:1
+        - 0:0:0:0:0:0:0:1
         - 127.0.0.1
       interfaceFlush:
         - path: user/isRegistered
