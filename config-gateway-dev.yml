@@ -7,4 +7,4 @@ learn:
       interfaceFlush:
         - path: user/isRegistered
           time: 60
-          count: 5
+          count: 6
